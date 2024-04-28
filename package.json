@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Easy and flexible storage management SDK for all storage providers",
   "main": "index.js",
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
   "scripts": {
     "test": "jest"
   },
