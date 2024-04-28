@@ -1,0 +1,29 @@
+{
+  "name": "easystoragemanager",
+  "version": "1.0.0",
+  "description": "Easy and flexible storage management SDK for all storage providers",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mdhaker/EasyStorageManager.git"
+  },
+  "keywords": [
+    "Google",
+    "drive",
+    "Mega",
+    "upload",
+    "OneDrive",
+    "pCloud"
+  ],
+  "author": "Dhaker Abdeljaouad (dhaker.abdeljaouad@gmail.com)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Mdhaker/EasyStorageManager/issues"
+  },
+  "homepage": "https://github.com/Mdhaker/EasyStorageManager#readme"
+}
